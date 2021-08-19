@@ -42,4 +42,5 @@ function verifyPin() {
         successMessage.style.display = 'none';
         failError.style.display = 'block';
     }
-}
+};
+    //Finished
